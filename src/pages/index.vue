@@ -54,7 +54,7 @@ const menus = reactive([
             我的 IELTS 备考中心
           </h2>
           <p class="text-gray-500 sm:text-xl dark:text-gray-400">
-            Hello, This is Frank. 这里包含我备考准备的一切，从词汇、语法开始...
+            Hello, This is Mao Mao. 这里包含我备考准备的一切，从词汇、语法开始...
           </p>
         </div>
         <div class="md:grid lg:grid-cols-3 md:grid-cols-2 md:gap-12 space-y-8 md:space-y-0">
