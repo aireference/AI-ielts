@@ -2,7 +2,7 @@
   My <span style="color: red; font-weight: bold;">IELTS™</span>
 </h1>
 
-<h2>在线地址 <a href="https://aireference.github.io/AI-ielts/#/">https://aireference.github.io/my-ielts/</a></h2>
+<h2>在线地址 <a href="https://aireference.github.io/AI-ielts/#/">https://aireference.github.io/AI-ielts/</a></h2>
 
 [![Home](public/screenshot/screenshot-home.png)](https://aireference.github.io/AI-ielts/#/)
 
