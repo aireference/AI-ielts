@@ -51,7 +51,7 @@ const menus = reactive([
       <div class="mx-auto max-w-screen-xl px-4 py-8 lg:px-6 sm:py-16">
         <div class="mb-8 max-w-screen-md lg:mb-16">
           <h2 class="mb-4 text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white">
-            我的 IELTS 备考中心
+            2024 Mao Mao IELTS 备考中心
           </h2>
           <p class="text-gray-500 sm:text-xl dark:text-gray-400">
             Hello, This is Mao Mao. 这里包含我备考准备的一切，从词汇、语法开始...
